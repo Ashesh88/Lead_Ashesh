@@ -1,4 +1,4 @@
-# Fluxilin Lead Finder & Agency CRM
+# Lead Finder & Agency CRM
 
 Internal prospecting engine and lightweight CRM built for web design & digital agencies to find local businesses without websites, calculate deal value, preview live storefront mockups, and run WhatsApp outreach.
 
@@ -6,7 +6,7 @@ Internal prospecting engine and lightweight CRM built for web design & digital a
 
 ## What It Solves
 
-Small businesses (salons, gyms, furniture showrooms, cafes, boutiques) often have solid Google Maps ratings (4.5★+) but zero website or online catalog. That means they lose high-intent local search traffic to competitors every single day.
+Small businesses (salons, gyms, furniture showrooms, cafes, boutiques, hotels) often have solid Google Maps ratings (4.5★+) but zero website or online catalog. That means they lose high-intent local search traffic to competitors every single day.
 
 This tool:
 1. Scans Google Maps for any niche + city.
@@ -37,8 +37,8 @@ This tool:
 ### 2. Live Storefront Mockup Generator
 - Click **"Demo"** on any lead to load a simulated iPhone interactive preview with their business name, location, and Google star rating.
 - 3 Instant Themes: *Luxury Dark*, *Organic Emerald*, *Power Red*.
-- Niche-aware product catalogs with realistic pricing and slashed tags.
-- Verified Google reviews tab + interactive WhatsApp cart button.
+- Niche-aware product & room catalogs (Hotels, Gyms, Furniture, Boutiques, Bakeries).
+- Verified Google reviews tab + interactive WhatsApp booking/cart button.
 - Live QR code generator to scan and review prototypes directly on physical phones.
 
 ### 3. Deal Scoring Engine
